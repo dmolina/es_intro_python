@@ -246,7 +246,7 @@ a = np.ones(100)
 ![numpy](numpy.jpg)
 ![pandas](pandas.png)
 
----
++++
 
 ## Numpy
 
@@ -285,14 +285,16 @@ array([ 9.12945251, -9.88031624,  7.4511316 , -2.62374854])
 array([ True, True, False, False], dtype=bool)
 ```
 
---- 
++++ 
+
+## Visualización de datos
+ 
+![bar](bars.png)
+
++++
 
 ## Visualización de datos
 
 ![scatter3d](scatter3d_demo.png)
 
----
 
-## Diagramas de barras
- 
-![bar](bars.png)
