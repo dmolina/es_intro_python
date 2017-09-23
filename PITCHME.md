@@ -301,7 +301,7 @@ array([ True, True, False, False], dtype=bool)
 
 # Scikit-learn
 
-[!scikit-learn](scikit-learn.png)
+![scikit-learn](scikit-learn.png)
 
 ---?image=scikit_criterion.png
 
