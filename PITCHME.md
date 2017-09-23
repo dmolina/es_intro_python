@@ -2,7 +2,7 @@
 
 --- 
 
-## Business Intelligence
+## Inteligencia de Negocio (Business Intelligence)
 
 ### Implica convertir datos en conocimiento para mejorar el negocio
 
