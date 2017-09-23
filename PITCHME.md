@@ -382,4 +382,4 @@ array([ True, True, False, False], dtype=bool)
 +++?image=iris_plot.png&size=auto 90%
 
 
----?image=questions.gif
+---?image=questions.gif&size=auto 30%
