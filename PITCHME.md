@@ -355,9 +355,9 @@ array([ True, True, False, False], dtype=bool)
 
 ## Ejemplo
 
-+++?code=scikit1.py
++++?code=src/scikit1.py
 
-+++?figure=scikit1.png 
++++?image=scikit1.png 
 
 +++?image=scikit_criterion.png
 
