@@ -359,6 +359,7 @@ array([ True, True, False, False], dtype=bool)
 
 +++?image=scikit1.png 
 
-+++?image=scikit_criterion.png
++++?image=scikit_criterion.png&size=auto 90%
 
++++?image=scikit2.png
 
