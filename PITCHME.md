@@ -323,7 +323,7 @@ array([ True, True, False, False], dtype=bool)
 
 +++
 
-## La visualización muestra información
+## La visualización muestra información normalmente oculta
 
 +++?image=networkx.png&size=auto
 
@@ -335,6 +335,8 @@ array([ True, True, False, False], dtype=bool)
 
 +++?image=iris_plot.png&size=auto 90%
 
+---
+
 # Scikit-learn
 
 ![scikit-learn](scikit-learn.png)
@@ -345,9 +347,17 @@ array([ True, True, False, False], dtype=bool)
 
 - Implementa múltiples algoritmos de ML.
 
-- Gestionar datos de 
+- Gestionar datos de entrenamiento y tests.
 
-- Los modelos se entr
+- Los modelos se entrenan de forma similar.
+
++++
+
+## Ejemplo
+
++++?code=scikit1.py
+
++++?figure=scikit1.png 
 
 +++?image=scikit_criterion.png
 
