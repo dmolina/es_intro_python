@@ -2,13 +2,11 @@
 
 --- 
 
-# Business Intelligence
+## Business Intelligence
 
-## Implica convertir datos en conocimiento para mejorar el negocio
+### Implica convertir datos en conocimiento para mejorar el negocio
 
-+++?image=BI1.jpg
-
-+++?image=BI2.jpg
++++?image=BI.jpg&size=auto 90%
 
 +++?image=LifeCycle_BI.png&size=auto
 ---
