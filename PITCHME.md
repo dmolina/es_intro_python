@@ -34,6 +34,21 @@ print("Hello, World")
 
 +++ 
 
+```
+sumcars = 0
+sumwords = 0
+
+for word in ['hola', 'a', 'todos']:
+    print("Frase: ", word)
+    sumcars += len(word)
+    sumwords += 1
+    
+print("Se han mostrado ", sumwords, " palabras y ", sumwords, " caracteres")
+```
+
+@[1-4 9](código que se ejecuta)
+@[4-7](Identifica el cuerpo del for/if por la tabulación)
+
 ## Uso científico
 
 ![stack](stack.jpg)
