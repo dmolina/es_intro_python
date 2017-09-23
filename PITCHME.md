@@ -329,21 +329,11 @@ array([ True, True, False, False], dtype=bool)
 
 +++
 
-## La visualización muestra información
+## Algunos ejemplos reales
 
-### Obtener de un jugador de la NBA
++++?image=nba.png&size=auto 90%
 
-+++?image=nba.png
-
-+++
-
-## La visualización muestra información
-
-### Clasificar a partir de 4 variables
-
-![iris](iris_plot.png)
-
----
++++?image=iris_plot.png&size=auto 90%
 
 # Scikit-learn
 
