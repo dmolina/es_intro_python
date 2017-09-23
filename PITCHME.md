@@ -95,7 +95,7 @@ a = range(10)
 for i in range(a): 
     print("Iteration ", i)
 ```
-### Estilo C/C++
+#### Estilo C/C++
 
 ```
 a = range(10)
@@ -103,7 +103,15 @@ a = range(10)
 for val in a:
     print(val)
 ```
-### Estilo **pythonico**
+#### Estilo **pythonico**
+
++++
+
+## Bucles for
+
+¿Y para dos vectores?
+
+---?code=articulos.py
 
 +++
 
