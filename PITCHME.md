@@ -311,13 +311,13 @@ array([ True, True, False, False], dtype=bool)
 
 +++
 
-## Visualización de datos
+## Visualización sencilla
 
 ![scatter3d](scatter3d_demo.png)
 
 +++
 
-## Visualización sencilla
+## Visualización combinada
  
 ![bar](bars.png)
 
@@ -325,7 +325,7 @@ array([ True, True, False, False], dtype=bool)
 
 ## La visualización muestra información
 
-![network](networkx.png)
++++?image=networkx.png&size=auto
 
 +++
 
