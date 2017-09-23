@@ -291,4 +291,8 @@ array([ True, True, False, False], dtype=bool)
 
 ![scatter3d](./scatter3d_demo.png)
 
+---
+
+## Diagramas de barras
+
 ![bar](./bar-plots.png)
