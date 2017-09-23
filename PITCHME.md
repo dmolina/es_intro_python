@@ -56,6 +56,25 @@ print("Se han mostrado ", sumwords, " palabras y ", sumcars, " caracteres")
 
 +++
 
+## Variables
+
+```
+a = 3
+msg = "hola"
+a = 7
+b = 2
+c = a / b # Da 3.5, no 3
+d = a // b # Da 3, división entera.
+```
+
+- No se define el tipo de una variable. 
+
+- Una variable puede tener distintos tipos.
+
+- La división por defecto es exacta.
+
++++
+
 ## Condiciones
 
 ```
@@ -180,7 +199,6 @@ for lang in msg:
 ```
 @[1-3]
 @[5-8]
-lang = "es"
 @[10-11]
 
 - Soporte nativo de tablas hash/diccionarios. 
