@@ -20,7 +20,7 @@ Python es un lenguaje muy usado en *Análisis de Datos* e *Inteligencia de Negoc
 
 # Lenguaje fácil de aprender
 
-## Se diseño para ser sencillo
+## Se diseñó para ser sencillo
 
 +++
 
@@ -220,7 +220,11 @@ import numpy
 a  = numpy.ones(100)
 ```
 
-- Se puede acortar.
++++
+
+## Módulos
+
+- Por comodidad se puede acordar.
 
 ```
 import numpy as np
