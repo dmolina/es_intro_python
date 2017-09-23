@@ -294,5 +294,5 @@ array([ True, True, False, False], dtype=bool)
 ---
 
 ## Diagramas de barras
-
-![bar](bar-plots.png)
+ 
+![bar](bars.png)
