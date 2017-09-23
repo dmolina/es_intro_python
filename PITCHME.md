@@ -50,7 +50,7 @@ for word in ['hola', 'a', 'todos']:
 print("Se han mostrado ", sumwords, " palabras y ", sumwords, " caracteres")
 ```
 
-@[1-4,9](código que se ejecuta)
+@[1-4,9](código al primer nivel)
 @[4-7](Identifica el cuerpo del for/if por la tabulación)
 
 ---
@@ -59,10 +59,28 @@ print("Se han mostrado ", sumwords, " palabras y ", sumwords, " caracteres")
 
 ![stack](stack.jpg)
 
----
++++
 
-# Librerías científicas
+## Librerías científicas
 
+![scikit-learn](scikit-learn.png)
 ![numpy](numpy.jpg)
 ![pandas](pandas.png)
-![scikit-learn](scikit-learn.png)
+
++++ 
+
+## Numpy
+
+- Permite trabajar con vectores de reales. 
+
+```
+>>> import numpy as np
+>>> a = np.arange(15).reshape(3, 5)
+>>> a
+array([[ 0,  1,  2,  3,  4],
+       [ 5,  6,  7,  8,  9],
+       [10, 11, 12, 13, 14]])
+>>> a.shape
+(3, 5)
+>>> a.ndim
+```
