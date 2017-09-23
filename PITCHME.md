@@ -210,7 +210,7 @@ def mysqrt(value):
 
 - Python usa módulos. 
 
-- Al igual que *java* hay que hacer un **import** de las librerías usadas.
+- Hay que hacer un **import** de las librerías que se van a usar.
 
 - Se usa indicando *nombre_paquete.nombre_funcion*.
 
@@ -218,6 +218,14 @@ def mysqrt(value):
 import numpy
 
 a  = numpy.ones(100)
+```
+
+- Se puede acortar.
+
+```
+import numpy as np
+
+a = np.ones(100)
 ```
 
 
