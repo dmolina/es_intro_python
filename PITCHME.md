@@ -104,19 +104,37 @@ for val in a:
     print(val)
 ```
 #### Estilo **pythonico**
-
 +++
 
 ## Bucles for
 
 ¿Y para dos vectores?
 
-+++?code=src/articulos1.py
+```
+articulos = ['zapatos', 'camisa', 'abrigo']
+precios = [50, 15, 70]
 
+for i in range(len(articulos)):
+    print("Precio de ", articulos[i], " = ", precios[i])
 
-+++?code=src/articulos2.py
+```
+
++++
+
+## Bucles for
+
+```
+sarticulos = ['zapatos', 'camisa', 'abrigo']
+precios = [50, 15, 70]
+
+for art, price in zip(articulos, precios):
+    print("Precio de ", art, " = ", price)
+
+```
 
 En formato *pythonico* (zip combina dos listas). 
+
++++
 
 ## Funciones
 
