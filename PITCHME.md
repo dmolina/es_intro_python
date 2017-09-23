@@ -236,7 +236,7 @@ a = np.ones(100)
 
 # Uso científico
 
-![analysis](python_datanalysis.jpeg)
+![analysis](data_analysis.png)
 
 +++
 
@@ -293,15 +293,9 @@ array([ True, True, False, False], dtype=bool)
 
 ---
 
-## Visualización de datos
- 
-![bar](bars.png)
+# Visualización
 
-+++
-
-## Visualización de datos
-
-![scatter3d](scatter3d_demo.png)
+## Permite analizar los datos
 
 +++
 
@@ -314,6 +308,18 @@ array([ True, True, False, False], dtype=bool)
 - Bokeh, Imágenes interactivas.
 
 - Pyplot, librería remota (compartir datos).
+
++++
+
+## Visualización de datos
+
+![scatter3d](scatter3d_demo.png)
+
++++
+
+## Visualización sencilla
+ 
+![bar](bars.png)
 
 +++
 
