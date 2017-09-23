@@ -166,9 +166,8 @@ for x in a:
 
 ```
 msg = {'es': 'Hola', 'en': 'Hello'}
-lang = "es"
 
-print(msg[lang])
+print(msg["es"])
 
 for lang in msg:
     print("Idioma: '", lang,  "'", sep='')
@@ -179,6 +178,9 @@ for lang in msg:
     print("Language[", lang, "]: ", msg[lang], sep='')
 
 ```
+@[1-3]
+@[4-7]
+@[7-8]
 
 - Soporte nativo de tablas hash/diccionarios. 
 - Se itera por las claves.
