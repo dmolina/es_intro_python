@@ -47,7 +47,7 @@ for word in ['hola', 'a', 'todos']:
     sumcars += len(word)
     sumwords += 1
     
-print("Se han mostrado ", sumwords, " palabras y ", sumwords, " caracteres")
+print("Se han mostrado ", sumwords, " palabras y ", sumcars, " caracteres")
 ```
 
 @[1-4,9](código al primer nivel)
@@ -92,7 +92,7 @@ else:
 ```
 a = range(10)
 
-for i in range(a): 
+for i in range(len(a)): 
     print("Iteration ", i)
 ```
 #### Estilo C/C++
