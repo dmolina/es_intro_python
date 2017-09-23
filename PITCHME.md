@@ -113,9 +113,10 @@ for val in a:
 
 +++?code=src/articulos1.py
 
-En formato *pythonico* (zip combina dos listas). 
 
-?code=src/articulos2.py
++++?code=src/articulos2.py
+
+En formato *pythonico* (zip combina dos listas). 
 
 ## Funciones
 
