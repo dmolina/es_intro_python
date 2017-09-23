@@ -20,7 +20,7 @@ Python es un lenguaje muy usado en *Análisis de Datos* e *Inteligencia de Negoc
 
 # Lenguaje fácil de aprender
 
-## Se diseño para ser sencillo. 
+## Se diseño para ser sencillo
 
 +++
 
@@ -124,7 +124,7 @@ for i in range(len(articulos)):
 ## Bucles for
 
 ```
-sarticulos = ['zapatos', 'camisa', 'abrigo']
+articulos = ['zapatos', 'camisa', 'abrigo']
 precios = [50, 15, 70]
 
 for art, price in zip(articulos, precios):
@@ -147,6 +147,18 @@ def mysqrt(value):
 - La tabulación limita el cuerpo. 
 - Uso de return.
 
+
++++
+
+## Listas
+
+```
+a = [1, 2, 3]
+len(a) # Devuelve 3
+
+for x in a:
+    print(x)
+```
 
 ---
 
