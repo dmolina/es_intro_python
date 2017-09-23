@@ -95,6 +95,7 @@ a = range(10)
 for i in range(a): 
     print("Iteration ", i)
 ```
+### Estilo C/C++
 
 ```
 a = range(10)
@@ -102,6 +103,7 @@ a = range(10)
 for val in a:
     print(val)
 ```
+### Estilo **pythonico**
 
 +++
 
