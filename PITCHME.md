@@ -16,6 +16,22 @@ Python es un lenguaje muy usado en *Análisis de Datos* e *Inteligencia de Negoc
 
 - Fácil de integrar con otras librerías/entornos.
 
+---
+
+# Lenguaje fácil de aprender
+
+## Se diseño para ser sencillo. 
+
++++
+
+```
+print("Hello, World")
+```
+
+- No requiere ";" tras cada sentencia. 
+
+- No requiere definir clase o main, sólo código.
+
 +++ 
 
 ## Uso científico
