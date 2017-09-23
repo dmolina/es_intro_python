@@ -236,7 +236,7 @@ a = np.ones(100)
 
 # Uso científico
 
-![analysis](data_analysis.png)
+![analysis](python_datanalysis.png)
 
 +++
 
