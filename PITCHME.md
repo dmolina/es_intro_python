@@ -52,7 +52,7 @@ print("Se han mostrado ", sumwords, " palabras y ", sumwords, " caracteres")
 
 @[1-4,9](código al primer nivel)
 @[4-7](Identifica el cuerpo del for/if por la tabulación)
-@[1-9]
+@[1-9]()
 
 +++
 
@@ -71,11 +71,51 @@ else:
 @[1-2,5-6]
 @[1-4]
 
+
 ## Formato
 
 - Las condiciones terminan en ":".
 - *elif* implica *else if*. 
 - La tabulación indica el cuerpo.
+
++++
+
+## Bucles for
+
+- No sigue el formato *for* de C/C++.
+- *for* recibe una lista/iterador.
+
++++ 
+
+## Bucles for
+
+```
+a = range(10)
+
+for i in range(a): 
+    print("Iteration ", i)
+```
+
+```
+a = range(10)
+
+for val in a:
+    print(val)
+```
+
++++
+
+## Funciones
+
+```
+def mysqrt(value):
+    return value**2
+```
+
+- Se define con *def*.
+- La tabulación limita el cuerpo. 
+- Uso de return.
+
 
 ---
 
