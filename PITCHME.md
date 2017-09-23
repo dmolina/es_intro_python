@@ -2,6 +2,15 @@
 
 --- 
 
+## Business Intelligence
+
+---?image=BI1.jpg
+
+---?image=BI2.jpg
+
+---?image=LifeCycle_BI.png&size=auto
+---
+
 ## ¿Por qué Python?
 
 Python es un lenguaje muy usado en *Análisis de Datos* e *Inteligencia de Negocio*.  
