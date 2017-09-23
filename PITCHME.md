@@ -390,5 +390,14 @@ array([ True, True, False, False], dtype=bool)
 
 +++?image=iris_plot.png&size=auto 90%
 
++++ 
+
+## Dashboard
+
+- Permiten obtener información de forma interactiva.
+
+- [Premios películas](https://demo.bokehplots.com/apps/movies)
+
+- [Evolución de la población](https://demo.bokehplots.com/apps/gapminder)
 
 ---?image=questions.gif&size=auto
