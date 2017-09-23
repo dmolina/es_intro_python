@@ -111,7 +111,18 @@ for val in a:
 
 ¿Y para dos vectores?
 
----?code=articulos.py
+```
+articulos = ['zapatos', 'camisa', 'abrigo']
+precios = [50, 15, 70]
+
+# Estilo C++
+for i in range(len(articulos)):
+    print("Precio de ", articulos[i], " = ", precios[i])
+
+# Estilo pythonico (zip combina dos listas)
+for art, price in zip(articulos, precios):
+    print("Precio de ", art, " = ", price)
+```
 
 +++
 
