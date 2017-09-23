@@ -236,6 +236,12 @@ a = np.ones(100)
 
 # Uso científico
 
+![analysis](python_datanalysis.jpeg)
+
++++
+
+# Capa de librerías científicas
+
 ![stack](stack.jpg)
 
 +++
@@ -301,9 +307,19 @@ array([ True, True, False, False], dtype=bool)
 
 ## Múltiples librerías
 
-- Matplotlib, 
+- Matplotlib, librería semejante a Matlab.
 
-- 
+- Seaborn, librería algo más de alto nivel.
+
+- Bokeh, Imágenes interactivas.
+
+- Pyplot, librería remota (compartir datos).
+
++++
+
+## La visualización muestra información
+
+![network](networkx.png)
 
 +++
 
@@ -311,7 +327,8 @@ array([ True, True, False, False], dtype=bool)
 
 ### Obtener de un jugador de la NBA
 
-![nba](nba.png)
++++?image=nba.png
+
 +++
 
 ## La visualización muestra información
