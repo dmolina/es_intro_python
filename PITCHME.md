@@ -111,9 +111,11 @@ for val in a:
 
 ¿Y para dos vectores?
 
-+++?code=articulos.py
++++?code=src/articulos1.py
 
-+++
+En formato *pythonico* (zip combina dos listas). 
+
+?code=src/articulos2.py
 
 ## Funciones
 
