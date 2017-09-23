@@ -153,19 +153,6 @@ for art, price in zip(articulos, precios):
 
 En formato *pythonico* (zip combina dos listas). 
 
-+++
-
-## Funciones
-
-```
-def mysqrt(value):
-    return value**2
-```
-
-- Se define con *def*.
-- La tabulación limita el cuerpo. 
-- Uso de return.
-
 
 +++
 
@@ -203,6 +190,36 @@ for lang in msg:
 
 - Soporte nativo de tablas hash/diccionarios. 
 - Se itera por las claves.
+
++++
+
+## Funciones
+
+```
+def mysqrt(value):
+    return value**2
+```
+
+- Se define con *def*.
+- La tabulación limita el cuerpo. 
+- Uso de return.
+
++++ 
+
+## Módulos
+
+- Python usa módulos. 
+
+- Al igual que *java* hay que hacer un **import** de las librerías usadas.
+
+- Se usa indicando *nombre_paquete.nombre_funcion*.
+
+```
+import numpy
+
+a  = numpy.ones(100)
+```
+
 
 ---
 
