@@ -179,8 +179,9 @@ for lang in msg:
 
 ```
 @[1-3]
-@[4-7]
-@[7-8]
+@[5-8]
+lang = "es"
+@[10-11]
 
 - Soporte nativo de tablas hash/diccionarios. 
 - Se itera por las claves.
