@@ -36,7 +36,7 @@ print("Hello, World")
 
 +++ 
 
-# Sin llaves, usa tabulación
+## tabulación, no llaves 
 
 ```
 sumcars = 0
@@ -50,7 +50,7 @@ for word in ['hola', 'a', 'todos']:
 print("Se han mostrado ", sumwords, " palabras y ", sumwords, " caracteres")
 ```
 
-@[1-4 9](código que se ejecuta)
+@[1-4,9](código que se ejecuta)
 @[4-7](Identifica el cuerpo del for/if por la tabulación)
 
 ---
