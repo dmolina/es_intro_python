@@ -285,7 +285,7 @@ array([ 9.12945251, -9.88031624,  7.4511316 , -2.62374854])
 array([ True, True, False, False], dtype=bool)
 ```
 
-+++ 
+---
 
 ## Visualización de datos
  
@@ -297,12 +297,45 @@ array([ True, True, False, False], dtype=bool)
 
 ![scatter3d](scatter3d_demo.png)
 
++++
+
+## Múltiples librerías
+
+- Matplotlib, 
+
+- 
+
++++
+
+## La visualización muestra información
+
+### Obtener de un jugador de la NBA
+
+![nba](nba.png)
++++
+
+## La visualización muestra información
+
+### Clasificar a partir de 4 variables
+
+![iris](iris_plot.png)
+
 ---
 
 # Scikit-learn
 
 ![scikit-learn](scikit-learn.png)
 
----?image=scikit_criterion.png
++++
+
+## Scikit-learn
+
+- Implementa múltiples algoritmos de ML.
+
+- Gestionar datos de 
+
+- Los modelos se entr
+
++++?image=scikit_criterion.png
 
 
