@@ -297,4 +297,12 @@ array([ True, True, False, False], dtype=bool)
 
 ![scatter3d](scatter3d_demo.png)
 
+---
+
+# Scikit-learn
+
+[!scikit-learn](scikit-learn.png)
+
+---?image=scikit_criterion.png
+
 
