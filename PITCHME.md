@@ -310,6 +310,35 @@ array([ True, True, False, False], dtype=bool)
 ![pandas](pandas.jpg)
 ---
 
+# Scikit-learn
+
+![scikit-learn](scikit-learn.png)
+
++++
+
+## Scikit-learn
+
+- Implementa múltiples algoritmos de ML.
+
+- Gestionar datos de entrenamiento y tests.
+
+- Los modelos se entrenan de forma similar.
+
++++
+
+## Ejemplo
+
++++?code=src/scikit1.py
+
+
++++?image=scikit1.png&size=auto 60%
+
++++?image=scikit2.png&size=auto
+
++++?image=scikit_criterion.png&size=auto 100%
+
+---
+
 # Visualización
 
 ## Permite analizar los datos
@@ -352,31 +381,5 @@ array([ True, True, False, False], dtype=bool)
 
 +++?image=iris_plot.png&size=auto 90%
 
----
-
-# Scikit-learn
-
-![scikit-learn](scikit-learn.png)
-
-+++
-
-## Scikit-learn
-
-- Implementa múltiples algoritmos de ML.
-
-- Gestionar datos de entrenamiento y tests.
-
-- Los modelos se entrenan de forma similar.
-
-+++
-
-## Ejemplo
-
-+++?code=src/scikit1.py
 
 
-+++?image=scikit1.png&size=auto 60%
-
-+++?image=scikit2.png&size=auto
-
-+++?image=scikit_criterion.png&size=auto 100%
