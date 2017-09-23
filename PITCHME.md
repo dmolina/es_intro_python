@@ -232,7 +232,6 @@ import numpy as np
 a = np.ones(100)
 ```
 
-
 ---
 
 # Uso científico
@@ -247,7 +246,7 @@ a = np.ones(100)
 ![numpy](numpy.jpg)
 ![pandas](pandas.png)
 
-+++
+---
 
 ## Numpy
 
@@ -288,3 +287,8 @@ array([ True, True, False, False], dtype=bool)
 
 --- 
 
+## Visualización de datos
+
+![scatter3d](scatter3d_demo.png)
+
+![bar](bar-plots.png)
