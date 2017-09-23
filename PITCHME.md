@@ -55,8 +55,14 @@ print("Se han mostrado ", sumwords, " palabras y ", sumwords, " caracteres")
 
 ---
 
-## Uso científico
+# Uso científico
 
 ![stack](stack.jpg)
 
 ---
+
+# Librerías científicas
+
+![numpy](numpy.jpg)
+![pandas](pandas.png)
+![scikit-learn](scikit-learn.png)
