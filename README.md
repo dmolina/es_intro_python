@@ -12,4 +12,6 @@ Se compone de:
 - [02-Intro_python.ipynb](02-Intro_python.ipynb)
 - [03-Ejemplos_ML.ipynb](03-Ejemplos_ML.ipynb)
 
+## Presentación
+
 - [Presentación sobre Python](https://gitpitch.com/dmolina/es_intro_python/master?grs=github&t=moon)

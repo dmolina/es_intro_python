@@ -53,7 +53,36 @@ print("Se han mostrado ", sumwords, " palabras y ", sumwords, " caracteres")
 @[1-4,9](código al primer nivel)
 @[4-7](Identifica el cuerpo del for/if por la tabulación)
 
+
++++
+
+## Condiciones
+
+```
+if a < 0:
+   print("a must be positive")
+elif a > 10:
+   print("a is too large")
+else: 
+   print("Perfect!")
+```
+
+@[1-2]
+@[1-2,5-6]
+@[1-4]
+
++++
+
+## Formato
+
+- Las condiciones terminan en ":".
+- *elif* implica *else if*. 
+- Los else son opcionales.
+- La tabulación indica el cuerpo.
+
 ---
+
+
 
 # Uso científico
 
@@ -67,7 +96,7 @@ print("Se han mostrado ", sumwords, " palabras y ", sumwords, " caracteres")
 ![numpy](numpy.jpg)
 ![pandas](pandas.png)
 
-+++ 
++++
 
 ## Numpy
 
@@ -86,7 +115,7 @@ array([[ 0,  1,  2,  3,  4],
 2
 ```
 
----
++++
 
 ## Numpy:  Expresiones
 
@@ -105,3 +134,6 @@ array([ 9.12945251, -9.88031624,  7.4511316 , -2.62374854])
 >>> a<35
 array([ True, True, False, False], dtype=bool)
 ```
+
+--- 
+
