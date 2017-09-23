@@ -71,13 +71,10 @@ else:
 @[1-2,5-6]
 @[1-4]
 
-+++
-
 ## Formato
 
 - Las condiciones terminan en ":".
 - *elif* implica *else if*. 
-- Los else son opcionales.
 - La tabulación indica el cuerpo.
 
 ---
