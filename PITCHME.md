@@ -357,9 +357,8 @@ array([ True, True, False, False], dtype=bool)
 
 +++?code=src/scikit1.py
 
-+++?image=scikit1.png 
-
-+++?image=scikit_criterion.png&size=auto 90%
++++?image=scikit1.png&size=auto 60%
 
 +++?image=scikit2.png
 
++++?image=scikit_criterion.png&size=auto 90%
