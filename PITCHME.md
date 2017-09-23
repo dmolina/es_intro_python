@@ -111,7 +111,7 @@ for val in a:
 
 ¿Y para dos vectores?
 
----?code=articulos.py
++++?code=articulos.py
 
 +++
 
