@@ -289,10 +289,10 @@ array([ True, True, False, False], dtype=bool)
 
 ## Visualización de datos
 
-![scatter3d](./scatter3d_demo.png)
+![scatter3d](scatter3d_demo.png)
 
 ---
 
 ## Diagramas de barras
 
-![bar](./bar-plots.png)
+![bar](bar-plots.png)
