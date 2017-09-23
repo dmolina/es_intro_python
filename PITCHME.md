@@ -52,7 +52,7 @@ print("Se han mostrado ", sumwords, " palabras y ", sumwords, " caracteres")
 
 @[1-4,9](código al primer nivel)
 @[4-7](Identifica el cuerpo del for/if por la tabulación)
-
+@[1-9]
 
 +++
 
