@@ -297,10 +297,6 @@ array([ True, True, False, False], dtype=bool)
 
 ![pandas](pandas.png)
 
-+++
-
-## Pandas
-
 - Permite procesar **dataframes**.
 
 - Transformar datos.
@@ -381,6 +377,6 @@ array([ True, True, False, False], dtype=bool)
 
 +++?image=scikit1.png&size=auto 60%
 
-+++?image=scikit2.png&size=auto 90%
++++?image=scikit2.png&size=auto
 
 +++?image=scikit_criterion.png&size=auto 100%
