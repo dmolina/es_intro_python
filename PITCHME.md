@@ -2,13 +2,15 @@
 
 --- 
 
-## Business Intelligence
+# Business Intelligence
 
----?image=BI1.jpg
+## Implica convertir datos en conocimiento para mejorar el negocio
 
----?image=BI2.jpg
++++?image=BI1.jpg
 
----?image=LifeCycle_BI.png&size=auto
++++?image=BI2.jpg
+
++++?image=LifeCycle_BI.png&size=auto
 ---
 
 ## ¿Por qué Python?
