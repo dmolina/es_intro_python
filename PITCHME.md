@@ -291,6 +291,27 @@ array([ 9.12945251, -9.88031624,  7.4511316 , -2.62374854])
 array([ True, True, False, False], dtype=bool)
 ```
 
++++
+
+## Pandas
+
+![pandas](pandas.png)
+
++++
+
+## Pandas
+
+- Permite procesar **dataframes**.
+
+- Transformar datos.
+
+- Gestiona valores nulos.
+
++++
+
+## Leyendo datos de pandas
+
+![pandas](pandas.jpg)
 ---
 
 # Visualización
@@ -357,8 +378,9 @@ array([ True, True, False, False], dtype=bool)
 
 +++?code=src/scikit1.py
 
+
 +++?image=scikit1.png&size=auto 60%
 
-+++?image=scikit2.png
++++?image=scikit2.png&size=auto 90%
 
-+++?image=scikit_criterion.png&size=auto 90%
++++?image=scikit_criterion.png&size=auto 100%
