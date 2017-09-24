@@ -378,6 +378,20 @@ array([ True, True, False, False], dtype=bool)
 ## Leyendo datos de pandas
 
 ![pandas](pandas.jpg)
+
+
++++
+
+## Filtrando valores
+
+![pandas_filter](pandas_filter.png)
+
++++
+
+## Combinando valores
+
+![pandas_op](pandas_op.png)
+
 ---
 
 # Scikit-learn
