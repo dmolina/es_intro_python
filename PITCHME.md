@@ -58,6 +58,8 @@
 
 +++?image=dashboard.jpg&size=auto 80%
 
++++
+
 ## Desventajas
 
 - Buen soporte de captura de datos y visualización. 
