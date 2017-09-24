@@ -10,10 +10,15 @@ Se compone de:
 
 - [01-Instalación.ipynb](01-Instalación.ipynb)
 - [02-Intro_python.ipynb](02-Intro_python.ipynb)
-- [03-example_iris.ipynb](03-example_iris.ipynb)
 
 ## Presentaciones
 
 - [Presentación sobre Python](https://gitpitch.com/dmolina/es_intro_python/master?grs=github&t=moon)
 
 - [Machine Learning with Scikit](http://www.dataschool.io/machine-learning-with-scikit-learn/)
+
+- [![Tutorial](https://www.youtube.com/watch?v=80fZrVMurPM)]
+
+## Recursos útiles
+
+- [Muchos recursos de aprendizaje en Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
