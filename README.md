@@ -27,15 +27,26 @@ Se compone de:
 - [13-Modules-and-Packages.ipynb](13-Modules-and-Packages.ipynb)
 - [14-Srings-and-Regular-Expressions.ipynb](14-Strings-and-Regular-Expressions.ipynb)
 
-# Presentacione
+# Presentaciones
 
 - [Presentación sobre Python](https://gitpitch.com/dmolina/es_intro_python/master?grs=github&t=moon)
 
-- [Machine Learning with Scikit](http://www.dataschool.io/machine-learning-with-scikit-learn/)
+# Sobre las librerías
 
-- [![Tutorial](https://www.youtube.com/watch?v=HC0J_SPm9co)]
+- [Sobre numpy](https://docs.scipy.org/doc/numpy-dev/user/quickstart.html)
+
+- [Sobre pandas](http://pandas.pydata.org/pandas-docs/stable/10min.html)
+
+- [Librerías de visualización](https://blog.modeanalytics.com/python-data-visualization-libraries/)
+
+- [Comparativa de librerías de visualization](https://dsaber.com/2016/10/02/a-dramatic-tour-through-pythons-data-visualization-landscape-including-ggplot-and-altair/)
 
 - [Intro a scikit-learn](https://www.oreilly.com/ideas/intro-to-scikit-learn)
+
+- [Tutorial de scikit-learn](http://nbviewer.jupyter.org/github/jakevdp/sklearn_tutorial/blob/master/notebooks/Index.ipynb)
+
+- [Video Tutorial de Scikit-learn](https://www.youtube.com/watch?v=HC0J_SPm9co)
+
 
 ## Recursos útiles
 
