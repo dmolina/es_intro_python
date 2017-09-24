@@ -41,6 +41,8 @@ Se compone de:
 
 - [Comparativa de librerías de visualization](https://dsaber.com/2016/10/02/a-dramatic-tour-through-pythons-data-visualization-landscape-including-ggplot-and-altair/)
 
+- [Video tutorial de bokeh](https://www.youtube.com/watch?v=EQCtGIdA0nE)
+
 - [Intro a scikit-learn](https://www.oreilly.com/ideas/intro-to-scikit-learn)
 
 - [Tutorial de scikit-learn](http://nbviewer.jupyter.org/github/jakevdp/sklearn_tutorial/blob/master/notebooks/Index.ipynb)
