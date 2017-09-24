@@ -11,6 +11,57 @@
 +++?image=LifeCycle_BI.png&size=auto
 ---
 
+## Software de Business Object
+
+### Comercial
+
+![tableau](tableau.jpg)
+
+![sas](sas_logo.png)
+
++++
+
+## Software de Business Object
+
+### No Comercial
+
+![pentaho](pentaho.png)
+
+![knime](knime.png)
+
++++
+
+## Forma de trabajo
+
+- Módulos con una entrada y salida.
+
+- Sistema de conexión visual entre componentes. 
+
+- Cada componente se configura con un formulario.
+
+- Algunos permiten dashboard.
+
++++?image=knime_example.png&size=auto 80%
+
++++?image=knime_example2.png&size=auto 80%
+
++++?image=pentaho_example.jpg&size=auto 80%
+
++++?image=dashboard.jpg&size=auto 80%
+
+## Desventajas
+
+- Buen soporte de captura de datos y visualización. 
+
+- Más limitado en procesamiento.
+
+- Componentes de calidad desigual. 
+
+- Difícil de integrar en sistemas más complejos.
+
+
+---
+
 ## ¿Por qué Python?
 
 Python es un lenguaje muy usado en *Análisis de Datos* e *Inteligencia de Negocio*.  
