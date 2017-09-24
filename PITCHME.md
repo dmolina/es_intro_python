@@ -9,7 +9,16 @@
 +++?image=BI.jpg&size=auto 90%
 
 +++?image=LifeCycle_BI.png&size=auto
+
 ---
+
+## Software de Business Object
+
+### Comercial
+
+### No comercial
+
++++
 
 ## Software de Business Object
 
@@ -25,9 +34,9 @@
 
 ### No Comercial
 
-![pentaho](pentaho.png)
-
 ![knime](knime.png)
+
+![pentaho](pentaho.png)
 
 +++
 
@@ -58,7 +67,6 @@
 - Componentes de calidad desigual. 
 
 - Difícil de integrar en sistemas más complejos.
-
 
 ---
 
