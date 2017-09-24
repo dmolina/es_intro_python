@@ -12,7 +12,7 @@
 
 +++
 
-## Software de Business Object
+## Software de BI
 
 ### Comercial
 
@@ -20,7 +20,7 @@
 
 +++
 
-## Software de Business Object
+## Software de BI
 
 ### Comercial
 
@@ -30,7 +30,7 @@
 
 +++
 
-## Software de Business Object
+## Software de BI
 
 ### No Comercial
 
