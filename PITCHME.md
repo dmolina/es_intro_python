@@ -10,7 +10,7 @@
 
 +++?image=LifeCycle_BI.png&size=auto
 
----
++++
 
 ## Software de Business Object
 
